@@ -1,2 +1,2 @@
 console.log('conflict1');
-console.log('2');
+console.log('3');
